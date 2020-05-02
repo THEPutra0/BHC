@@ -12,7 +12,7 @@ $ pip install telethon
 
 $ pip install colorama
 
-$ git clone 
+$ git clone https://github.com/THEPutra0/BHC
 
 $ ls
 
